@@ -1,0 +1,7 @@
+{
+  "name": "GOGO - Cinematic 3D Mascot",
+  "description": "A high-end cinematic landing page featuring GOGO, a cute 3D ghost-like mascot, with interactive 3D elements and Gemini-powered conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
